@@ -5,7 +5,7 @@ function showDare(answer, questionNumber) {
   const dares = {
     1: { a: "both removes underwear", b: "both removes uper half all clothes" },
     2: { a: "lick ur feet while on vc for 1 min", b: "lick ur hand for 2 mins seductively" },
-    3: { a: "spank urself 10 times, b: "walk like a cate on 4 legs" },
+    3: { a: "spank urself 10 times", b: "walk like a cate on 4 legs" },
     4: { a: "remove all clothes", b: "ask ur partner to remove all clothes" },
     5: { a: "squeez ur sweeties 30 times and moan", b: "show me ur baby" },
     6: { a: "keep showing ur baby and finger for 1 30 mins", b: "giive a dare of ur choice to ur partner" },
